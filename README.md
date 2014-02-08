@@ -1,4 +1,4 @@
 Moka
 ====
 
-A MVC framework for Amber
+An MVC framework for Amber
