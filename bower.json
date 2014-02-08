@@ -1,18 +1,18 @@
 {
-  "name": "moka",
-  "version": "0.0.1",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "amber": "#master",
-	  "jquery": "~1.10.2",
-      "jquery-ui": "~1.10.3",
-      "jquery-tabby": "git://github.com/alanhogan/Tabby",
-	  "jquery-mousewheel": "git://github.com/brandonaaron/jquery-mousewheel"
-  }
+	"name": "moka",
+	"version": "0.0.1",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"amber": "#master",
+		"jquery": "~1.10.2",
+		"jquery-ui": "~1.10.3",
+		"jquery-tabby": "git://github.com/alanhogan/Tabby",
+		"jquery-mousewheel": "git://github.com/brandonaaron/jquery-mousewheel"
+	}
 }
